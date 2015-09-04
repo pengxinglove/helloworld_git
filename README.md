@@ -5,6 +5,7 @@ change return type
 
 # modify html folder
 
+
 # use git stash function
 	BEGIN
 		CREATE NEW BRANCH
@@ -13,4 +14,7 @@ change return type
 		GIT ADD .
 		GIT COMMIT -M "USE STASH POP"
 	END
+
+
+	use stash before switch from master to useStash
 
