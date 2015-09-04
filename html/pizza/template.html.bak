@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//w3C//DTD XHTML 1.0 Strict//EN" "http://www.w3c.org/TR/xhtml1/DTD/xhtml1-stric.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" type="text/css" href="styles.css" />
+		<title>Spaghetti &#38; Cruft: Geek Pizzeriz</title>
+		
+		
+		</head>
+		<body>
+		<!-- 刊头标记代码-->
+			<div id="branding">
+				<h1><img src="images/logo.gif" width="375" height="200" alt="Spaghetti and Cruft: Geek Pizzeria"/></h1>
+				
+				<p id="address">
+					Spaghetti &#38; Cruft <br />
+					742 Cederholm Ave. <br />
+					Gotham, CA 00234 <br />
+					5100-555-0987
+					</p>
+				</div>
+			
+			<!-- 主体内容区域-->
+			<div id="main-content">
+				<h2 >The page title will go here</h2>				
+				<p>The page content will go here.</p>
+				</div>
+			</body>
+	
+		<!-- 导航栏的标记代码-->
+			<ul id="navigation">
+				<li><a href="menu.html">Our Menu</a></li>
+				<li><a href="about.html">About us</a></li>
+				<li><a href="reviews.html"> Raves and Reviews</a></li>
+				<li><a href="news.html">News and Events</a></li>
+				<li><a href="contact.html">Contact us</a></li>
+			
+				</ul>
+		<!-- 口号与页脚-->
+
+			<p id="copyright">&#169; 2007 Spaghetti &#38; Cruft: Geek Pizzeria</p>
+
+				<div id="tagline">
+				<p>Pizza, pasta, and WiFi.</p>
+				<p>Enjoy a bite with your bytes.</p>
+				</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</html>
