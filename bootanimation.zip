@@ -1,1 +1,6 @@
 this is bootanimation.zip
+
+add this row and push to remote
+
+	git push origin useStash:useStash
+
